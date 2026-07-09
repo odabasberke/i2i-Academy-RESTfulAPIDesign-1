@@ -1,5 +1,3 @@
-RESTful API Design & Swagger (English)
-
 This project is a layered Spring Boot RESTful application that provides CRUD operations for managing Customer data. It integrates with a real relational database (Oracle XE) running on Docker and generates OpenAPI-compliant documentation using Swagger UI.
 
 This project was developed as a part of the i2i Academy backend engineering assignments.
